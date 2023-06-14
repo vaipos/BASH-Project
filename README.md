@@ -1,7 +1,7 @@
 # BASH Project 
 ## Client-Server: Data log Insertion, Deletion, Search, and Sort
 ### Description
-The client-server project is a powerful tool designed to manage and manipulate large data sets on a server. The project offers a user-friendly interface that allows users to fetch, insert, sort, and delete data points from a server-based dataset. The project is optimized for fast access and retrieval, making it an efficient solution for managing large data sets.
+The client-server project is a powerful tool designed to manage and manipulate large data sets on a server. The project offers a LINUX-based interface that allows users to fetch, insert, sort, and delete data points from a server-based dataset. The project is optimized for fast access and retrieval, making it an efficient solution for managing large data sets.
 
 One of the key features of the project is its ability to handle large data sets. The project is designed to efficiently manage and process large amounts of data, ensuring that users can access and manipulate data quickly and easily. The project also supports multiple requests simultaneously, allowing multiple users to access and manipulate data at the same time.
 
